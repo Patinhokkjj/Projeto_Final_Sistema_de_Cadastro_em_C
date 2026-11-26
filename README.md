@@ -64,9 +64,8 @@ No Windows, execute `cadastro.exe` no lugar de `./cadastro`.
 ## 👥 Integrantes
 
 - Iarlley
-- [Integrante 2]
-- [Integrante 3]
-- [Integrante 4]
+- Joaquim
+- Igor
 
 ## 👤 Autor
 
