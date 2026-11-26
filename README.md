@@ -1,6 +1,6 @@
 # 💻 Projeto Final: Sistema de Cadastro em C
 
-Projeto Final desenvolvido por **mim** e pelo meu grupo, aluno(a) do curso de **ADS**, na disciplina **[NOME DA DISCIPLINA]**.
+Projeto Final desenvolvido por **mim** e pelo meu grupo, aluno(a) do curso de **ADS**, na disciplina **Coding**.
 
 ---
 
@@ -8,7 +8,7 @@ Projeto Final desenvolvido por **mim** e pelo meu grupo, aluno(a) do curso de **
 
 Este projeto é um **sistema de cadastro** feito em **linguagem C**, executado no **terminal** por meio de um menu interativo.
 
-O tema escolhido pelo grupo é **[TEMA: livro, produto, paciente, aluno, filme, etc.]**. O sistema permite cadastrar, listar, buscar, editar e remover registros, que ficam armazenados em um vetor de structs com alocação dinâmica de memória.
+O tema escolhido pelo grupo é **Cadastro de Alunos**. O sistema permite cadastrar, listar, buscar, editar e remover registros, que ficam armazenados em um vetor de structs com alocação dinâmica de memória.
 
 ## 🎯 Objetivo
 
